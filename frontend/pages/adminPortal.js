@@ -22,22 +22,19 @@ function adminportal() {
         {dataList.map((item) => (
           <div
             key={item.id}
-            className="bg-white text-black w-[80%] h-[50vh] overflow-y-auto mx-auto my-4 p-5 rounded-[8px]"
+            className="bg-white text-black w-[40vw] h-[45vh] overflow-y-auto mx-auto my-4 p-4 rounded-[8px]"
           >
-            <div className="text-2xl font-bold ">{item.id}</div>
+            <div className="text-lg font-bold ">{item.id}</div>
             <br />
-
             <div>
               <strong>Emotion(NLP) </strong>: {item.emotion}
             </div>
-            <br />
             <div>
               <strong>Emotion(History)</strong> : {item.History}
             </div>
-            <br />
             <div>
               <strong>Summary :</strong>
-              <br /> {item.summary}
+              {item.summary}
             </div>
             <br />
             <div>
