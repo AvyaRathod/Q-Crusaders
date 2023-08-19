@@ -101,7 +101,7 @@ pip install -r requirements.txt  # install
    <p align="center">
    <a href = "https://github.com/pranavgupta2603"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
    <a href = "https://www.linkedin.com/in/pranavgupta2003/">
-   <img src = "[http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg](https://avatars.githubusercontent.com/u/72745185?v=4)" width="36" height="36"/>
+   <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
    </a>
    </p>
     <strong>ML and NLP Developer<strong>
