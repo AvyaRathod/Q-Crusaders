@@ -6,6 +6,7 @@ Q-Crusaders is an innovative solution designed to understand and analyze the moo
 <img width="1440" alt="p-1" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/f14d79e5-ea5a-472c-aad7-ad64d7c32818">
 <img width="1440" alt="p-2" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/463268a5-d8ac-4d0b-a1f2-54bbfeea2c9f">
 <img width="1440" alt="p-3" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/0135b890-16c0-417c-87ec-589b7c8cd2ce">
+<img width="1440" alt="p-4" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/fc281e96-a6e6-4d07-8408-d577fe3606bf">
 
 
 
