@@ -101,7 +101,7 @@ pip install -r requirements.txt  # install
 
    #### Om Mukherjee
    <p align="center">
-   <img src = "https://avatars.githubusercontent.com/u/27121364?s=400&u=263e4e69519c05c350b874efc6120f411d130a67&v=4"  height="120" alt="Om Mukherjee">
+   <img src = "https://avatars.githubusercontent.com/u/72745185?v=4"  height="120" alt="Om Mukherjee">
    </p>
    <p align="center">
    <a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
