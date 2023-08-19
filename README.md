@@ -2,6 +2,10 @@
 
 ## Overview
 Q-Crusaders is an innovative solution designed to understand and analyze the mood of employees. By leveraging advanced technologies like Computer Vision (CV) and Natural Language Processing (NLP), it offers insights into employee sentiments, helping organizations foster a positive work environment.
+<img width="1440" alt="Preview-1">
+<img width="1440" alt="Preview-2">
+
+
 
 ### Technologies Used -
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
