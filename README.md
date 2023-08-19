@@ -2,8 +2,12 @@
 
 ## Overview
 Q-Crusaders is an innovative solution designed to understand and analyze the mood of employees. By leveraging advanced technologies like Computer Vision (CV) and Natural Language Processing (NLP), it offers insights into employee sentiments, helping organizations foster a positive work environment.
-<img width="1440" alt="Preview-1">
-<img width="1440" alt="Preview-2">
+
+<img width="1440" alt="p-1" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/f14d79e5-ea5a-472c-aad7-ad64d7c32818">
+<img width="1440" alt="p-2" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/463268a5-d8ac-4d0b-a1f2-54bbfeea2c9f">
+<img width="1440" alt="p-3" src="https://github.com/AvyaRathod/Q-Crusaders/assets/72745185/0135b890-16c0-417c-87ec-589b7c8cd2ce">
+
+
 
 
 
