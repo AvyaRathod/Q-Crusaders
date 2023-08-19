@@ -50,24 +50,28 @@ export default function Login() {
   }, [user]);
 
   return (
-    <div className="shadow-xl mt-32 p-10 text-white rounded-lg">
-      <h2 className="text-3xl font-medium mx-auto text-center">
+    <div className="mt-10 p-10 text-white rounded-lg glass w-[50%] mx-auto">
+      <img
+        className="mx-auto"
+        src="https://static.vecteezy.com/system/resources/thumbnails/012/098/276/small/tired-business-man-office-worker-png.png"
+      />
+      <h2 className="text-3xl  mx-auto text-center font-bold">
         Mental Health is Important!
       </h2>
       <div className="py-4">
-        <h3 className="py-4 text-center">
+        <h3 className="py-4 text-center font-bold">
           Sign in to check your mental health
         </h3>
         <div className="flex flex-col gap-4">
           <button
             onClick={GoogleLogin}
-            className="text-white bg-gray-700 p-4 w-auto mx-auto font-medium rounded-lg flex justify-center align-middle gap-2 "
+            className="text-white bg-black p-4 w-auto mx-auto font-medium rounded-lg flex justify-center align-middle gap-2 "
           >
             <FcGoogle className="text-2xl w-[50px]" />
             Sign in with Google
           </button>
           <button
-            className="text-white bg-gray-700 p-4 w-auto mx-auto font-medium rounded-lg flex align-middle gap-2 "
+            className="text-white bg-black p-4 w-auto mx-auto font-medium rounded-lg flex align-middle gap-2 "
             onClick={FacebookProvider}
           >
             <FaMeta className="text-2xl w-[50px]" />

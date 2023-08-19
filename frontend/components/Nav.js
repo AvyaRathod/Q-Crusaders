@@ -6,31 +6,34 @@ export default function Nav() {
   const [user, loading] = useAuthState(auth);
 
   return (
-    <nav className="flex flex-col justify-between items-center py-10 md:flex-row z-0">
+    <nav className="flex flex-col justify-between items-center py-10 md:flex-row z-0 mx-14">
       <Link href="/">
-        <h2 className="hidden md:block cursor-pointer text-xl">EMPLOYO</h2>
+        <h2 className="hidden md:block cursor-pointer text-2xl font-extrabold">
+          EMPLOYO
+        </h2>
       </Link>
+
       <ul className="flex items-center gap-10 ">
-        <a className=" text-sm md:text-lg font-medium" href="#">
-          About us
-        </a>
+        <Link href="/dashboard">
+          <a className=" text-sm md:text-lg font-medium" href="#">
+            Dashboard
+          </a>
+        </Link>
         {!user && (
           <Link href="/auth/login">
-            <a className="py-2 px-4 text-lg bg-blue-500 text-white rounded-lg font-medium ml-8">
+            <a className="py-2 px-4 text-lg bg-black text-white rounded-lg font-medium ml-8">
               Sign In
             </a>
           </Link>
         )}
         {user && (
           <div>
-            <Link href="/dashboard">
-              <img
-                referrerPolicy="no-referrer"
-                className="w-12 rounded-full"
-                src={user.photoURL}
-                alt=""
-              />
-            </Link>
+            <img
+              referrerPolicy="no-referrer"
+              className="w-12 rounded-full"
+              src={user.photoURL}
+              alt=""
+            />
           </div>
         )}
       </ul>
